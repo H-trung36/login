@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/trung-362004/static/css/main.ede75a16.css",
+    "main.js": "/trung-362004/static/js/main.93c83725.js",
+    "index.html": "/trung-362004/index.html",
+    "main.ede75a16.css.map": "/trung-362004/static/css/main.ede75a16.css.map",
+    "main.93c83725.js.map": "/trung-362004/static/js/main.93c83725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ede75a16.css",
+    "static/js/main.93c83725.js"
+  ]
+}
